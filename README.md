@@ -76,3 +76,13 @@ The system is built on a distributed architecture where each controller is respo
 
 - **UART Serial Communication**
   - Enables real-time communication between Raspberry Pi, Arduino Mega, and Arduino Uno.
+ 
+- ---
+
+## 🖥️ HMI Dashboard
+
+The robot can be monitored and controlled through a real-time desktop dashboard developed using PyQt5.
+
+<p align="center">
+  <img src="Images/HMI.png" width="90%">
+</p>
