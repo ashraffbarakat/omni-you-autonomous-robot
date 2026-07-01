@@ -84,5 +84,5 @@ The system is built on a distributed architecture where each controller is respo
 The robot can be monitored and controlled through a real-time desktop dashboard developed using PyQt5.
 
 <p align="center">
-  <img src="Images/HMI.png" width="90%">
+  <img src="Images/HMI.jpeg" width="90%">
 </p>
