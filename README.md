@@ -86,3 +86,17 @@ The robot can be monitored and controlled through a real-time desktop dashboard 
 <p align="center">
   <img src="Images/HMI.jpeg" width="90%">
 </p>
+
+Future Improvements
+
+1- ROS 2 Integration
+
+2- SLAM
+
+3- YOLO Object Detection
+
+4- Autonomous Path Planning
+
+5- AI-based Task Scheduling
+
+6- Cloud Monitoring
