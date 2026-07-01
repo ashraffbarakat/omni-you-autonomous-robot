@@ -41,3 +41,38 @@ The project was developed for a robotics competition where it successfully achie
 - 🔗 Distributed Raspberry Pi + Arduino Architecture
 - 📷 Live Camera Streaming
 - ⚡ Real-Time Serial Communication
+
+- ---
+
+## 🏗️ System Architecture
+
+The system is built on a distributed architecture where each controller is responsible for a specific task. The Raspberry Pi acts as the main controller, coordinating computer vision and communication between the mobile base and the robotic arm.
+
+<p align="center">
+  <img src="Images/Diagram.png" width="90%">
+</p>
+
+### Components
+
+- **Raspberry Pi 4**
+  - Computer Vision
+  - QR Code Detection
+  - Task Coordination
+  - Decision Making
+
+- **Arduino Mega**
+  - Mobile Base Control
+  - Mecanum Wheel Kinematics
+  - DC Motor Control
+  - Encoder Feedback
+
+- **Arduino Uno**
+  - Robotic Arm Control
+  - Servo Motor Control
+  - Pick-and-Place Operations
+
+- **Camera**
+  - Captures images for QR code detection.
+
+- **UART Serial Communication**
+  - Enables real-time communication between Raspberry Pi, Arduino Mega, and Arduino Uno.
