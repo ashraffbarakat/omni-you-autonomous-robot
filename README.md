@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="Images/4.jpg" width="25%">
+  <img src="Images/4.jpg" width="25%" alt="OMNI YOU Robot">
 </p>
 
 <h1 align="center">🤖 OMNI YOU - Autonomous Omni-Directional Robot</h1>
 
 <p align="center">
-Autonomous QR-based Pick & Place Robot using Raspberry Pi, Arduino, Computer Vision, and a Real-Time HMI Dashboard.
+Autonomous omnidirectional robot capable of QR-based object detection, robotic pick-and-place, and real-time monitoring using Raspberry Pi and Arduino.
 </p>
 
 <p align="center">
@@ -16,5 +16,6 @@ Autonomous QR-based Pick & Place Robot using Raspberry Pi, Arduino, Computer Vis
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
 ![PyQt5](https://img.shields.io/badge/PyQt5-HMI-success)
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow)
+![Competition](https://img.shields.io/badge/Competition-🥇%201st%20Place-gold)
 
 </p>
