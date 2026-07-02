@@ -110,8 +110,8 @@ The robot can be monitored and controlled through a real-time desktop dashboard 
 
 Developed by Team 6
 
+Mechatronic System Design
+
 Faculty of Engineering
 
 Ain Shams University
-
-Mechatronic System Design
