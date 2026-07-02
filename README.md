@@ -89,16 +89,28 @@ The robot can be monitored and controlled through a real-time desktop dashboard 
   <img src="Images/HMI.jpeg" width="90%">
 </p>
 
-Future Improvements
+---
 
-1- ROS 2 Integration
+# 🚀 Future Work
 
-2- SLAM
+- ROS2 Integration
+- SLAM
+- YOLOv11 Object Detection
+- Path Planning
+- AI Task Scheduling
+- Cloud Dashboard
+- Voice Commands
+- Multi-Robot Coordination
+- Digital Twin
+- Web Dashboard
 
-3- YOLO Object Detection
+---
 
-4- Autonomous Path Planning
+# 👨‍💻 Credits
 
-5- AI-based Task Scheduling
+Developed by Team 6
 
-6- Cloud Monitoring
+Faculty of Engineering
+Ain Shams University
+
+Mechatronic System Design
