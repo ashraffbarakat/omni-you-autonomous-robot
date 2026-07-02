@@ -52,7 +52,7 @@ The system is built on a distributed architecture where each controller is respo
   <img src="Images/Diagram.png" width="90%">
 </p>
 
-### Components
+###
 
 - **Raspberry Pi 4**
   - Computer Vision
