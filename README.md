@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/11.png" width="115%" alt="OMNI YOU Robot">
+  <img src="Images/11.png" width="125%" alt="OMNI YOU Robot">
 </p>
 
 <h1 align="center">🤖 OMNI YOU - Autonomous Omni-Directional Robot</h1>
