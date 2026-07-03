@@ -30,7 +30,7 @@ The robot uses a Raspberry Pi for computer vision and decision making, Arduino M
 
 The project was developed for a robotics competition where it successfully achieved **🥇 First Place**.
 <p align="center">
-  <img src="Images/Magazine_Cover.png" width="80%" alt="OMNI YOU Robot">
+  <img src="Images/Cover.png" width="80%" alt="OMNI YOU Robot">
 </p>
 
 ## ✨ Key Features
