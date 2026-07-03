@@ -29,6 +29,9 @@ OMNI YOU is an autonomous omni-directional mobile robot designed to perform QR-b
 The robot uses a Raspberry Pi for computer vision and decision making, Arduino Mega for mobile base control, and Arduino Uno for robotic arm control. A real-time HMI dashboard allows monitoring and manual control of the entire system.
 
 The project was developed for a robotics competition where it successfully achieved **🥇 First Place**.
+<p align="center">
+  <img src="Images/Magazine_Cover.png" width="80%" alt="OMNI YOU Robot">
+</p>
 
 ## ✨ Key Features
 
